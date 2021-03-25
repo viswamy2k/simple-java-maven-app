@@ -11,7 +11,7 @@ public class App
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("App test message****************");
+        System.out.println("App test message*********");
     }
 
     private final String getMessage() {
